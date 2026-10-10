@@ -1,0 +1,58 @@
+{
+  "item": {
+    "id": "com.sixone.majhong",
+    "restype": "quick_app",
+    "name": "腕上麻将",
+    "description": "在手环上随时随地打麻将！",
+    "preview": [
+      "media/b261143c-4988-42c8-990a-3cac88b3acd6.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/b261143c-4988-42c8-990a-3cac88b3acd6.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/环10-腕上麻将-v1.0.0.bin",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/环10-腕上麻将-v1.0.0.bin",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/环10-腕上麻将-v1.0.0.bin",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/环10P-腕上麻将-v1.0.0.bin",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/环10-腕上麻将-v1.0.0.bin",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/环9-腕上麻将-v1.0.0.bin",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/环10P-腕上麻将-v1.0.0.bin",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
