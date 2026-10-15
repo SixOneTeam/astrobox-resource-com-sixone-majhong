@@ -5,10 +5,10 @@
     "name": "腕上麻将",
     "description": "在手环上随时随地打麻将！",
     "preview": [
-      "media/b261143c-4988-42c8-990a-3cac88b3acd6.png"
+      "media/容器 611@2x.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/b261143c-4988-42c8-990a-3cac88b3acd6.png",
+    "cover": "media/容器 611@2x.png",
     "author": [
       {
         "name": "sixoneteam",
@@ -16,42 +16,48 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "腕上麻将密钥购买连接",
+      "url": "https://afdian.com/item/7b32f37cb4c111f180b152540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    }
+  ],
   "downloads": {
     "xmb10nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/环10-腕上麻将-v1.0.0.bin",
-      "versionCode": 1
+      "file_name": "downloads/环10-腕上麻将-v1.0.0.rpk",
+      "versionCode": 2
     },
     "xmb11nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/环10-腕上麻将-v1.0.0.bin",
-      "versionCode": 1
+      "file_name": "downloads/环10-腕上麻将-v1.0.0.rpk",
+      "versionCode": 2
     },
     "xmb11": {
       "version": "1.0.0",
-      "file_name": "downloads/环10-腕上麻将-v1.0.0.bin",
-      "versionCode": 1
+      "file_name": "downloads/环10-腕上麻将-v1.0.0.rpk",
+      "versionCode": 2
     },
     "xmb10p": {
       "version": "1.0.0",
-      "file_name": "downloads/环10P-腕上麻将-v1.0.0.bin",
-      "versionCode": 1
+      "file_name": "downloads/环10P-腕上麻将-v1.0.0.rpk",
+      "versionCode": 2
     },
     "xmb10": {
       "version": "1.0.0",
-      "file_name": "downloads/环10-腕上麻将-v1.0.0.bin",
-      "versionCode": 1
+      "file_name": "downloads/环10-腕上麻将-v1.0.0.rpk",
+      "versionCode": 2
     },
     "xmb9": {
       "version": "1.0.0",
-      "file_name": "downloads/环9-腕上麻将-v1.0.0.bin",
-      "versionCode": 1
+      "file_name": "downloads/环9-腕上麻将-v1.0.0.rpk",
+      "versionCode": 2
     },
     "xmb9p": {
       "version": "1.0.0",
-      "file_name": "downloads/环10P-腕上麻将-v1.0.0.bin",
-      "versionCode": 1
+      "file_name": "downloads/环10P-腕上麻将-v1.0.0.rpk",
+      "versionCode": 2
     }
   },
   "ext": {}
